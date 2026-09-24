@@ -1,0 +1,6 @@
+{
+  "name": "USB Drive Guard",
+  "description": "USB OTG Storage Fake Capacity Tester & Data Integrity Verifier",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
